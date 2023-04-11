@@ -1,0 +1,111 @@
+[
+    {
+      "id": "1",
+      "logo": "https://www.similarweb.com/corp/wp-content/uploads/2021/04/Google-1-2.png",
+      "company_name": "Google",
+      "job_title": "Software Engineer",
+      "salary": "$1,20,000 Yearly",
+      "job_desc": "Google offers a wide range of job opportunities across different areas, such as software engineering, product management, data science, marketing, sales, and more. Here's some general information about job opportunities at Google.",
+      "job_responsibility": "Design, develop, test, deploy, maintain and improve software applications and systems. Collaborate with cross-functional teams to identify and prioritize features and improvements. Write clean, efficient, and well-documented code. Participate in code reviews and mentorship activities. Investigate and resolve complex technical issues. Keep up-to-date with industry trends and technologies. Contribute to open-source projects and Google's internal technology initiatives. Ensure high performance, scalability, and reliability of software applications and systems.",
+      "experiences": "3+ years of software development experience",
+      "job_requirements": "Bachelor's degree in Computer Science or related field",
+      "location": "New York City, NY",
+      "job_type": "Full-time",
+      "job_base": "Remotely",
+      "contact_info": {
+        "email": "jobs@google.com",
+        "phone": "123-456-7890"
+      }
+    },
+    {
+      "id": "2",
+      "logo": "https://www.similarweb.com/corp/wp-content/uploads/2021/04/Pepsico-2.png",
+      "company_name": "Pepsico",
+      "job_title": "Marketing Manager",
+      "salary": "$100,000 Yearly",
+      "job_desc": "Finding a Marketing Manager for our company, responsible for overseeing and executing marketing campaigns and initiatives to promote a company's products or services. The specific job responsibilities and details may vary depending on the company and industry, but here are some common tasks and duties.",
+      "job_responsibility": "a marketing manager may be responsible for: Developing and implementing marketing strategies and plans to achieve business goals. Conducting market research and analyzing customer behavior to identify opportunities and trends. Creating and managing marketing budgets, allocating resources effectively, and optimizing spending. Developing and executing digital marketing campaigns across various channels, including email, social media, search engines, and display advertising. Creating and managing content marketing campaigns, including website content, blog posts, videos, and other materials. Coordinating with other departments such as sales, product development, and customer service to ensure a consistent brand message. Measuring and analyzing the effectiveness of marketing campaigns and adjusting strategies accordingly.",
+      "experiences": "5+ years of marketing experience",
+      "job_requirements": "Bachelor's degree in Marketing or related field",
+      "location": "San Francisco, CA",
+      "job_type": "Part-time",
+      "job_base": "Onsite",
+      "contact_info": {
+        "email": "jobs@microsoft.com",
+        "phone": "123-456-7890"
+      }
+    },
+    {
+      "id": "3",
+      "logo": "https://www.similarweb.com/corp/wp-content/uploads/2021/04/Lenovo-1.png",
+      "company_name": "Lenovo",
+      "job_title": "Data Scientist",
+      "salary": "$70,000-$1,20,000 Per Year",
+      "job_desc": "Data scientists typically work in industries such as technology, finance, healthcare, and marketing. They need strong skills in programming languages such as Python, R, and SQL, as well as expertise in machine learning, statistical modeling, and data visualization tools.",
+      "job_responsibility": "Data collection and cleaning: Collecting and cleaning data from various sources to ensure it is accurate, complete, and usable for analysis. Exploratory data analysis: Exploring and visualizing data to identify patterns, trends, and anomalies. Modeling and analysis: Building predictive models, running statistical analyses, and performing machine learning algorithms to make data-driven recommendations. Data communication and visualization: Presenting insights and findings in a clear and understandable manner to stakeholders, often through visualizations and dashboards. Business understanding: Understanding business goals, requirements, and objectives to align data analysis with business objectives. Continuous learning: Keeping up with the latest data science trends, technologies, and methodologies to stay relevant and effective.",
+      "experiences": "3+ years of data analysis experience",
+      "job_requirements": "Master's degree in Data Science or related field",
+      "location": "Chicago, IL",
+      "job_type": "Full-time",
+      "job_base": "Onsite",
+      "contact_info": {
+        "email": "jobs@netfilx.com",
+        "phone": "123-456-7890"
+      }
+    },
+    {
+      "id": "4",
+      "logo": "https://www.similarweb.com/corp/wp-content/uploads/2021/04/Ebay-2.png",
+      "company_name": "Ebay",
+      "job_title": "Graphic Designer",
+      "salary": "$200000 Yearly",
+      "job_desc": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "experiences": "2+ years of graphic design experience",
+      "job_requirements": "Bachelor's degree in Graphic Design or related field",
+      "location": "Miami, FL",
+      "job_type": "Full-time",
+      "job_base": "Onsite",
+      "contact_info": {
+        "email": "jobs@cargurus.com",
+        "phone": "123-456-7890"
+      }
+    },
+    {
+      "id": "5",
+      "logo": "https://www.similarweb.com/corp/wp-content/uploads/2021/04/AirBNB.png",
+      "company_name": "AirBNB",
+      "job_title": "Product Manager",
+      "salary": "$1,50,000-$2,00000 Yearly",
+      "job_desc": "A Product Manager is responsible for overseeing the development and launch of a product or product line. Their primary responsibility is to ensure that the product meets the needs of the target market, while also meeting the goals of the company. The following is a general job description for a Product Manager.",
+      "job_responsibility": "Conduct market research to understand customer needs and preferences Develop product strategies that align with company goals and market demands Work with cross-functional teams (engineering, design, marketing, etc.) to define product requirements and specifications Develop and maintain a product roadmap that outlines the product’s development plan, including timelines, milestones, and deliverables Manage the product development process, including design, testing, and launch Identify and prioritize product features and enhancements based on customer feedback and market trends Work with sales and marketing teams to develop go-to-market strategies, including product positioning, pricing, and messaging Monitor product performance and gather customer feedback to inform product improvements and updates Analyze market trends and competitive landscape to identify opportunities and potential threats.",
+      "experiences": "5+ years of product management experience",
+      "job_requirements": "Bachelor's degree in Business or related field",
+      "location": "Seattle, WA",
+      "job_type": "Part-time",
+      "job_base": "Remotely", 
+      "contact_info": {
+        "email": "jobs@examplecompany5.com",
+        "phone": "123-456-7890"
+      }
+    },
+    {
+      "id": "6",
+      "logo": "https://safesyntax.com/wp-content/uploads/2021/06/f-logo.png",
+      "company_name": "Syntax IT",
+      "job_title": "Senior Software Engineer",
+      "salary": "100K-200K",
+      "job_desc": " a senior software engineer position typically requires several years of experience in software development, strong technical skills, and the ability to lead and mentor other developers.",
+      "job_responsibility": "Designing, developing, and maintaining software applications Leading technical projects and collaborating with other teams and stakeholders Mentoring and guiding junior developers Participating in code reviews and ensuring high quality and maintainability of code Identifying and addressing technical challenges and providing innovative solutions Staying up-to-date with industry trends and new technologies Communicating technical concepts and solutions to non-technical stakeholders",
+      "experiences": "5+ years of Software Engineer experience",
+      "job_requirements": "Bachelor's degree in CSE or related field",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full-time",
+      "job_base":"Remotely",
+      "contact_info": {
+        "email": "syntx.web122.com",
+        "phone": "123-456-7890"
+      }
+    }
+]
+  
